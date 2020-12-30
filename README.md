@@ -1,6 +1,7 @@
 # Machine-learning-With-Python-
 
-#What is machine learning?
+
+What is machine learning?
 
 Machine learning is the branch of artificial intelligence (AI) focused on building applications that learn from data and improve their accuracy over time without being programmed to do so. 
 In data science, the algorithm is a sequence of statistical processing steps. In machine learning, algorithms are 'trained' to find patterns and features in massive amounts of data to make decisions and predictions based on new data. The better algorithm is a more accurate decision and prediction will become as it processes more data.
