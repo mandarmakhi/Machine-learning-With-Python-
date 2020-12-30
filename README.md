@@ -52,3 +52,39 @@ There some variations of how to define the types of Machine Learning Algorithms 
 •	Reinforcement Learning
 
 ***
+# Supervised learning
+
+•	Nearest Neighbor
+
+•	Naive Bayes
+
+•	Decision Trees
+
+•	Linear Regression
+
+•	Support Vector Machines (SVM)
+
+•	Neural Networks
+
+
+
+
+# Unsupervised Learning
+
+•	k-means clustering, Association Rules
+
+
+# Semi-supervised Learning
+
+Semi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled data set to guide classification and feature extraction from a larger, unlabeled data set. Semi-supervised learning can solve the problem of having not enough labeled data (or not being able to afford to label enough data) to train a supervised learning algorithm. 
+
+
+# Reinforcement Learning
+
+•	Q-Learning
+
+•	Temporal Difference (TD)
+
+•	Deep Adversarial Networks
+
+
