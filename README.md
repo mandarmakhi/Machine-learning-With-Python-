@@ -25,3 +25,30 @@ You will Need Anaconda to Execute all the Codes So Install it first and then Go 
 To Download anaconda, [Click Here](https://www.anaconda.com/products/individual).
 
 Then after installation of anaconda open anaconda navigator and install the jupyter notebook inside the anaconda environment then execute the .ipynb code inside the jupyter notebook.
+
+***
+
+## Types of Machine Learning Algorithms You Should Know
+
+I particularly think that getting to know the types of Machine learning algorithms is like getting to see the Big Picture of AI and what is the goal of all the things that are being done in the field and put you in a better position to break down a real problem and design a machine learning system.
+Terms frequently used in this post:
+
+•	Labeled data: Data consisting of a set of training examples, where each example is a pair consisting of an input and a desired output value (also called the supervisory signal, labels, etc)
+
+•	Classification: The goal is to predict discrete values, e.g. {1,0}, {True, False}, {spam, not spam}.
+
+•	Regression: The goal is to predict continuous values, e.g. home prices.
+
+## Types of machine learning Algorithms
+
+There some variations of how to define the types of Machine Learning Algorithms but commonly they can be divided into categories according to their purpose and the main categories are the following:
+
+•	Supervised learning
+
+•	Unsupervised Learning
+
+•	Semi-supervised Learning
+
+•	Reinforcement Learning
+
+***
