@@ -20,7 +20,7 @@ Examples of machine learning are all around us. Search the web and play music in
 We can expect more. As big data keep getting bigger as computing becomes more powerful & affordable as data scientists keep developing more capable algorithms, machine learning will drive greater efficiency in our personal and work lives.
 
 
-
+***
 You will Need Anaconda to Execute all the Codes So Install it first and then Go through the Below Codes.
 To Download anaconda, [Click Here](https://www.anaconda.com/products/individual).
 
