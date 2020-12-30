@@ -1,3 +1,13 @@
+![](https://img.shields.io/github/followers/mandarmakhi?label=Follow%40mandarmakhi&style=social)
+![](https://img.shields.io/github/forks/mandarmakhi/Machine-learning-With-Python-?label=Fork&style=social)
+![](https://img.shields.io/github/stars/mandarmakhiMachine-learning-With-Python-?style=social)
+![](https://img.shields.io/github/watchers/mandarmakhi/Machine-learning-With-Python-?style=social)
+![](https://img.shields.io/github/issues/mandarmakhi/Machine-learning-With-Python-)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://mandarmakhi.github.io/Machine-learning-With-Python-/)]
+![](https://img.shields.io/github/repo-size/mandarmakhi/Machine-learning-With-Python-)
+![](https://img.shields.io/github/languages/code-size/mandarmakhi/Machine-learning-With-Python-)
+
+
 # Machine-learning-With-Python-
 
 
