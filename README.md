@@ -164,36 +164,68 @@ Self-driving cars: Self-driving cars require a machine learning tour de force—
 ***
 ***
 
-1.	 Searching Algorithms
+## 1.	 Searching Algorithms
+
 •	Linear Search
+
 •	Binary Search
+
 •	Depth First Search
+
 •	Breadth First Search
+
 •	Jump Search
-2.	Sorting Algorithms
+
+## 2.	Sorting Algorithms
+
 •	Bubble Sort
+
 •	Merge Sort
+
 •	Selection Sort
+
 •	Heap Sort
+
 •	Insertion Sort
+
 •	Radix Sort
+
 •	Quick Sort
+
 •	Tim Sort
-3.	Greedy Algorithms
+
+## 3.	Greedy Algorithms
+
 •	Huffman Coding
+
 •	Fractional Knapsack Problem
+
 •	Activity Selection
+
 •	Job Sequencing Problem
-4.	Dynamic Programming
+
+## 4.	Dynamic Programming
+
 •	Fibonacci Number Series
+
 •	Knapsack Problem
+
 •	Tower of Hanoi
+
 •	Shortest Path by Dijkstra
+
 •	Matrix Chain Multiplication
-5.	Recursive Programming
+
+## 5.	Recursive Programming
+
 •	Factorial 
+
 •	Exponential 
+
 •	Tower of Hanoi
+
 •	Tree Traversal
+
 •	DFS Of Graph
+
 
