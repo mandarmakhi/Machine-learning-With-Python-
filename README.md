@@ -159,3 +159,41 @@ Cybersecurity: Machine learning can extract intelligence from incident reports, 
 Medical image analysis: The types and volume of digital medical imaging data have exploded, leading to more available information for supporting diagnoses but also more opportunity for human error in reading the data. Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and other deep learning models have proven increasingly successful at extracting features and information from medical images to help support accurate diagnoses.
 
 Self-driving cars: Self-driving cars require a machine learning tour de force—they must continuously identify objects in the environment around the car, predict how they will change or move, and guide the car around the objects as well as toward the driver's destination. Virtually every form of machine learning and deep learning algorithm mentioned above plays some role in enabling a self-driving automobile.
+
+***
+***
+***
+
+1.	 Searching Algorithms
+•	Linear Search
+•	Binary Search
+•	Depth First Search
+•	Breadth First Search
+•	Jump Search
+2.	Sorting Algorithms
+•	Bubble Sort
+•	Merge Sort
+•	Selection Sort
+•	Heap Sort
+•	Insertion Sort
+•	Radix Sort
+•	Quick Sort
+•	Tim Sort
+3.	Greedy Algorithms
+•	Huffman Coding
+•	Fractional Knapsack Problem
+•	Activity Selection
+•	Job Sequencing Problem
+4.	Dynamic Programming
+•	Fibonacci Number Series
+•	Knapsack Problem
+•	Tower of Hanoi
+•	Shortest Path by Dijkstra
+•	Matrix Chain Multiplication
+5.	Recursive Programming
+•	Factorial 
+•	Exponential 
+•	Tower of Hanoi
+•	Tree Traversal
+•	DFS Of Graph
+
